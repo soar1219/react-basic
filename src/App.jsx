@@ -46,5 +46,3 @@ const App = () => {
 }
 
 export default App;
-
-/* プロジェクト名変更テスト */
